@@ -1,6 +1,4 @@
 #include<stdio.h>
-
-////// Multiplication like
 int main()
 {
     int N,i,j,mul=0;
